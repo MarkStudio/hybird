@@ -1,6 +1,6 @@
 #说明
 
-> Hybird 是一个构建了 Native App 与 WebView 中的 HTML 双向通信的 demo
+> Hybird 是一个构建了 Native App 与 UIWebView 中的 HTML 双向通信的 demo
 
 ##协议
 规定 Javascript 通知 Native App 时以字符串遵从如下格式传入:
